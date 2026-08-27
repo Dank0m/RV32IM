@@ -1,0 +1,13 @@
+# Simulation binaries and memory files
+riscv_sim
+program.hex
+data.hex
+riscv_sim.vcd
+a.out
+*.log
+
+# Generated documentation
+docs/build/
+
+# Python cache
+__pycache__/
